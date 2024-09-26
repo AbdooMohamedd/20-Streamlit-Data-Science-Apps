@@ -2,6 +2,11 @@
 
 This is a Streamlit-based web application that allows users to visualize stock price data, apply technical indicators, and predict future stock prices using machine learning (Linear Regression).
 
+![Image 1](./imgs/stat.png)
+![Image 2](./imgs/candlesticks.png)
+![Image 3](./imgs/closing_price.png)
+![Image 4](./imgs/predictions.png)
+
 ## Features
 
 - **User-friendly Interface**: Select popular stock symbols like AAPL, GOOGL, MSFT, and more.
