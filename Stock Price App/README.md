@@ -31,7 +31,7 @@ This is a Streamlit-based web application that allows users to visualize stock p
 2. Navigate to the project folder:
 
    ```bash
-   cd 20-Streamlit-Data-Science-Apps/Stock\ Price\ App
+   cd 20-Streamlit-Data-Science-Apps/Stock Price App
    ```
 
 3. Install the required libraries:
